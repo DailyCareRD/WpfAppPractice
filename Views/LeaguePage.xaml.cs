@@ -10,17 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfAppPractice
+namespace WpfAppPractice.Views
 {
     /// <summary>
-    /// MainWindow.xaml 的互動邏輯
+    /// LeaguePage.xaml 的互動邏輯
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class LeaguePage : Window
     {
-        public MainWindow()
+        public LeaguePage()
         {
             InitializeComponent();
         }
